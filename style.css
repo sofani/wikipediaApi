@@ -1,0 +1,18 @@
+body {
+  background-image: url(http://www.freepptbackgrounds.net/wp-content/uploads/2013/11/Silver-Blue-Lights-Wave-Backgrounds-800x600.jpg);
+  font-family: "Lucida Console";
+  color: black;
+  text-align: left;
+}
+
+.small_image {
+  width: 6em
+}
+
+.fade {
+  background: white;
+  opacity: 0.7;
+  padding: 16px;
+  font-style: bold;
+  border-radius: 10px
+}
